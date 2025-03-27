@@ -1,5 +1,8 @@
 .nombre {
     color: red;
-    font-size: 2rem;
     font-style: italic;
+}
+
+h2 {
+    color: blue;
 }
